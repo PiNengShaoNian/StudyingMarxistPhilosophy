@@ -1,0 +1,2222 @@
+[
+  {
+    "type": "single",
+    "num": 1,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:社会革命"
+      },
+      {
+        "isTrue": false,
+        "value": "B:社会改革"
+      },
+      {
+        "isTrue": false,
+        "value": "C:阶级斗争"
+      },
+      {
+        "isTrue": true,
+        "value": "D:生产力"
+      }
+    ],
+    "title": "唯物史观认为，社会发展的最终决定力量是（）"
+  },
+  {
+    "type": "multi",
+    "num": 2,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:私人垄断资本主义"
+      },
+      {
+        "isTrue": false,
+        "value": "B:企业垄断资本主义"
+      },
+      {
+        "isTrue": false,
+        "value": "C:政党垄断资本主义"
+      },
+      {
+        "isTrue": true,
+        "value": "D:国家垄断资本主义"
+      }
+    ],
+    "title": "资本主义的发展经历了自由竞争资本主义和垄断资本主义两个阶段。而垄断资本主义的发展又经历了（）"
+  },
+  {
+    "type": "tof",
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "正确"
+      },
+      {
+        "isTrue": false,
+        "value": "错误"
+      }
+    ],
+    "num": 3,
+    "title": "马克思指出，艺术的一定繁盛时期绝不是同社会的一般发展成比例的，如古希腊的神话和史诗是在人类社会的不发达阶段产生的。这一思想主要说明精神生产同物质生产存在着不平衡的关系"
+  },
+  {
+    "type": "single",
+    "num": 4,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:主张物质和意识具有统一性的辩证唯物主义观点"
+      },
+      {
+        "isTrue": false,
+        "value": "B:主张思想就是物质的庸俗唯物主义观点"
+      },
+      {
+        "isTrue": false,
+        "value": "C:认为世界是绝对精神外化的客观唯心主义观点"
+      },
+      {
+        "isTrue": true,
+        "value": "D:夸大了意识能动作用的唯心主义观点"
+      }
+    ],
+    "title": "“心诚则灵，心不诚则不灵”的说法是（）"
+  },
+  {
+    "type": "multi",
+    "num": 5,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:资本家剥削工人的秘密"
+      },
+      {
+        "isTrue": true,
+        "value": "B:无产阶级与资产阶级利益的根本对立"
+      },
+      {
+        "isTrue": false,
+        "value": "C:人类历史发展的一般规律"
+      },
+      {
+        "isTrue": false,
+        "value": "D:人民群众的历史主体作用"
+      }
+    ],
+    "title": "剩余价值学说深刻揭示了（）"
+  },
+  {
+    "type": "tof",
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "正确"
+      },
+      {
+        "isTrue": true,
+        "value": "错误"
+      }
+    ],
+    "num": 6,
+    "title": "具体劳动生产物质产品，抽象劳动生产精神产品。"
+  },
+  {
+    "type": "single",
+    "num": 7,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:检验真理的具体实践具有局限性"
+      },
+      {
+        "isTrue": false,
+        "value": "B:实践检验真理是一个过程"
+      },
+      {
+        "isTrue": false,
+        "value": "C:被实践检验的真理还要继续接受实践的检验"
+      },
+      {
+        "isTrue": true,
+        "value": "D:实践最终无法确定认识的真理性"
+      }
+    ],
+    "title": "关于实践标准的不确定性，下列观点错误的是（）"
+  },
+  {
+    "type": "multi",
+    "num": 8,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:社会发展合规律性与合目的性的绝对对立"
+      },
+      {
+        "isTrue": true,
+        "value": "B:社会形态更替的统一性和多样性"
+      },
+      {
+        "isTrue": true,
+        "value": "C:同类社会形态既有共同的本质，又有各自的特点"
+      },
+      {
+        "isTrue": false,
+        "value": "D:社会发展的循环往复"
+      }
+    ],
+    "title": "社会发展道路的统一性和多样性，主要表现为（   ）"
+  },
+  {
+    "type": "tof",
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "正确"
+      },
+      {
+        "isTrue": false,
+        "value": "错误"
+      }
+    ],
+    "num": 9,
+    "title": "劳动力商品最重要的特点是其使用价值是剩余价值的源泉。"
+  },
+  {
+    "type": "single",
+    "num": 10,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:人民群众可随意按照自己的意志创造历史"
+      },
+      {
+        "isTrue": false,
+        "value": "B:人民群众可以制定社会规律创造历史"
+      },
+      {
+        "isTrue": false,
+        "value": "C:人民群众可以改造社会规律创造历史"
+      },
+      {
+        "isTrue": true,
+        "value": "D:人民群众自觉地按照社会规律创造历史"
+      }
+    ],
+    "title": "社会主义社会开始了人民群众自觉创造历史的新时代，这是指（）"
+  },
+  {
+    "type": "multi",
+    "num": 11,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:必然是一个长期的实践过程"
+      },
+      {
+        "isTrue": true,
+        "value": "B:必须经过社会主义的充分发展"
+      },
+      {
+        "isTrue": true,
+        "value": "C:要在社会主义历史阶段中逐步创造条件"
+      },
+      {
+        "isTrue": true,
+        "value": "D:对经济落后国家需经历更长期的实践过程"
+      }
+    ],
+    "title": "向共产主义过渡（）"
+  },
+  {
+    "type": "tof",
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "正确"
+      },
+      {
+        "isTrue": true,
+        "value": "错误"
+      }
+    ],
+    "num": 12,
+    "title": "世界上存在两种真理，一种是相对真理，一种是绝对真理"
+  },
+  {
+    "type": "single",
+    "num": 13,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:实现人的自由而全面的发展"
+      },
+      {
+        "isTrue": false,
+        "value": "B:实现人类永恒不变的普适价值"
+      },
+      {
+        "isTrue": false,
+        "value": "C:四海之内皆兄弟的大同世界"
+      },
+      {
+        "isTrue": false,
+        "value": "D:自由、平等、博爱的理性王国"
+      }
+    ],
+    "title": "马克思主义追求的根本价值目标是（）"
+  },
+  {
+    "type": "multi",
+    "num": 14,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:有目的地调控、改变各种客观规律共同作用的结果"
+      },
+      {
+        "isTrue": true,
+        "value": "B:从实际出发，努力认识和把握事物的发展规律"
+      },
+      {
+        "isTrue": true,
+        "value": "C:通过实践能动地认识世界和改造世界"
+      },
+      {
+        "isTrue": true,
+        "value": "D:依赖于一定的物质条件和物质手段"
+      }
+    ],
+    "title": "实践是客观规律性与主观能动性统一的基础。正确发挥主观能动作用，应当注意（）"
+  },
+  {
+    "type": "tof",
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "正确"
+      },
+      {
+        "isTrue": true,
+        "value": "错误"
+      }
+    ],
+    "num": 15,
+    "title": "劳动生产率与商品的价值量成正比。"
+  },
+  {
+    "type": "single",
+    "num": 16,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:不变资本价值的增值程度"
+      },
+      {
+        "isTrue": false,
+        "value": "B:资本家的赚钱程度"
+      },
+      {
+        "isTrue": false,
+        "value": "C:固定资本价值的增值程度"
+      },
+      {
+        "isTrue": true,
+        "value": "D:资本家对工人的剥削程度"
+      }
+    ],
+    "title": "剩余价值率反映的是（）"
+  },
+  {
+    "type": "multi",
+    "num": 17,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:世界社会主义运动已经开始复苏"
+      },
+      {
+        "isTrue": true,
+        "value": "B:出现区域性强劲发展"
+      },
+      {
+        "isTrue": true,
+        "value": "C:中国特色社会主义成为世界社会主义运动的主要推动力量"
+      },
+      {
+        "isTrue": false,
+        "value": "D:世界社会主义运动仍然处于低潮"
+      }
+    ],
+    "title": "21世纪世界社会主义的发展形势是（）"
+  },
+  {
+    "type": "tof",
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "正确"
+      },
+      {
+        "isTrue": false,
+        "value": "错误"
+      }
+    ],
+    "num": 18,
+    "title": "人民至上是马克思主义的政治立场"
+  },
+  {
+    "type": "single",
+    "num": 19,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:新社会制度能够得到人民群众的支持"
+      },
+      {
+        "isTrue": false,
+        "value": "B:新社会制度能够鼓舞人们的信心和斗志"
+      },
+      {
+        "isTrue": true,
+        "value": "C:新社会制度能够创造出比以往社会更高的劳动生产率"
+      },
+      {
+        "isTrue": false,
+        "value": "D:新社会制度能够更好地调节生产关系"
+      }
+    ],
+    "title": "一种新的社会制度具有巨大优越性的集中表现，在于（）"
+  },
+  {
+    "type": "multi",
+    "num": 20,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:真理不是理论，而属于实践"
+      },
+      {
+        "isTrue": true,
+        "value": "B:只有实践才能判明主观认识与客观实际是否一致"
+      },
+      {
+        "isTrue": true,
+        "value": "C:实践是检验思维是否具有真理性的标准"
+      },
+      {
+        "isTrue": false,
+        "value": "D:思维不具有现实性"
+      }
+    ],
+    "title": "马克思说：“人的思维是否具有观的真理性，这不是一个理论问题，而是一个实践的回题。\"这一思想说明（）"
+  },
+  {
+    "type": "tof",
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "正确"
+      },
+      {
+        "isTrue": true,
+        "value": "错误"
+      }
+    ],
+    "num": 21,
+    "title": "划分唯物史观和唯心史观的唯一标准是对思维和存在的同一性问题的不同回答。"
+  },
+  {
+    "type": "single",
+    "num": 22,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:m’=c/v"
+      },
+      {
+        "isTrue": true,
+        "value": "B:m’=m/v"
+      },
+      {
+        "isTrue": false,
+        "value": "C:m’=必要劳动/剩余劳动"
+      },
+      {
+        "isTrue": false,
+        "value": "D:m’=必要劳动时间/剩余劳动时间"
+      }
+    ],
+    "title": "以物化劳动的形式表示资本家对工人剥削程度的公式是（）"
+  },
+  {
+    "type": "multi",
+    "num": 23,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:人类社会是整个物质世界的组成部分"
+      },
+      {
+        "isTrue": true,
+        "value": "B:物质生产实践是人类社会存在和发展的基础"
+      },
+      {
+        "isTrue": true,
+        "value": "C:社会生产力是人类改造自然的物质力量"
+      },
+      {
+        "isTrue": true,
+        "value": "D:生产关系是不以人的意志为转移的物质关系"
+      }
+    ],
+    "title": "人类社会的物质性具体表现在（）"
+  },
+  {
+    "type": "tof",
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "正确"
+      },
+      {
+        "isTrue": true,
+        "value": "错误"
+      }
+    ],
+    "num": 24,
+    "title": "意识作为人特有的精神活动，其内容和形式都是主观的"
+  },
+  {
+    "type": "single",
+    "num": 25,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:创新是人类思维和文化的发展源泉"
+      },
+      {
+        "isTrue": true,
+        "value": "B:创新推动生产关系和社会制度的变革"
+      },
+      {
+        "isTrue": false,
+        "value": "C:创新决定社会生产力的发展"
+      },
+      {
+        "isTrue": false,
+        "value": "D:创新决定社会存在的变化和发展"
+      }
+    ],
+    "title": "实践没有止境，理论创新也没有止境。世界每时每刻都在发生变化，我们必须在理论上跟上时代，不断认识规律，不断推进理论创新、实践创新、制度创新、文化创新以及其他各方面创新。创新是民族进步的灵魂，是因为（）"
+  },
+  {
+    "type": "multi",
+    "num": 26,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:它在现代生产和经济增长中占有首要地位"
+      },
+      {
+        "isTrue": false,
+        "value": "B:它体现着先生产后科学技术的内在结构的变化"
+      },
+      {
+        "isTrue": true,
+        "value": "C:科学技术成为当代生产力的生长点和突破口"
+      },
+      {
+        "isTrue": false,
+        "value": "D:当代科学技术成为实体生产力"
+      }
+    ],
+    "title": "当代科学技术成为第一生产力，这是因为（）"
+  },
+  {
+    "type": "tof",
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "正确"
+      },
+      {
+        "isTrue": true,
+        "value": "错误"
+      }
+    ],
+    "num": 27,
+    "title": "法人资本所有制和国家资本所有制的出现，表明了资本主义私有制已经逐步转向社会所有制。"
+  },
+  {
+    "type": "single",
+    "num": 28,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:生产商品同一劳动过程的两个不同方面"
+      },
+      {
+        "isTrue": false,
+        "value": "B:具体劳动是简单劳动，抽象劳动是复杂劳动"
+      },
+      {
+        "isTrue": false,
+        "value": "C:是两次不同的劳动过程"
+      },
+      {
+        "isTrue": false,
+        "value": "D:具体劳动生产物质产品，抽象劳动生产精神产品"
+      }
+    ],
+    "title": "具体劳动和抽象劳动的关系是（）"
+  },
+  {
+    "type": "multi",
+    "num": 29,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:因祸得福，祸福相依"
+      },
+      {
+        "isTrue": true,
+        "value": "B:无产阶级专政代替资产阶级专政"
+      },
+      {
+        "isTrue": true,
+        "value": "C:培育出新优质品种"
+      },
+      {
+        "isTrue": true,
+        "value": "D:原始社会的公有制经过私有制到社会主义的公有制"
+      }
+    ],
+    "title": "下列选项中，体现发展的实质的有(     )"
+  },
+  {
+    "type": "tof",
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "正确"
+      },
+      {
+        "isTrue": false,
+        "value": "错误"
+      }
+    ],
+    "num": 30,
+    "title": "社会主义五百年的历史进程已经雄辩地证明，任何力量都阻挡不了社会主义前进的步伐。"
+  },
+  {
+    "type": "single",
+    "num": 31,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:感性"
+      },
+      {
+        "isTrue": false,
+        "value": "B:理性"
+      },
+      {
+        "isTrue": true,
+        "value": "C:劳动"
+      },
+      {
+        "isTrue": false,
+        "value": "D:意识"
+      }
+    ],
+    "title": "人的本质是现实的人之所以存在的内在根据。人的本质问题包括两个方面：一是人与动物的区别；二是人与人的区别。从人与动物相区别的层次上，人的本质在于（）"
+  },
+  {
+    "type": "multi",
+    "num": 32,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:马克思主义政治学"
+      },
+      {
+        "isTrue": true,
+        "value": "B:马克思主义政治经济学"
+      },
+      {
+        "isTrue": true,
+        "value": "C:科学社会主义"
+      },
+      {
+        "isTrue": true,
+        "value": "D:马克思主义哲学"
+      }
+    ],
+    "title": "作为一个完整的科学体系，马克思主义理论体系的三个主要组成部分是（）"
+  },
+  {
+    "type": "single",
+    "num": 33,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:自然属性"
+      },
+      {
+        "isTrue": true,
+        "value": "B:社会属性"
+      },
+      {
+        "isTrue": false,
+        "value": "C:自由属性"
+      },
+      {
+        "isTrue": false,
+        "value": "D:意识特性"
+      }
+    ],
+    "title": "人的最根本特性是其（）"
+  },
+  {
+    "type": "multi",
+    "num": 34,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:人民拥护不拥护"
+      },
+      {
+        "isTrue": true,
+        "value": "B:人民赞成不赞成"
+      },
+      {
+        "isTrue": true,
+        "value": "C:人民高兴不高兴"
+      },
+      {
+        "isTrue": true,
+        "value": "D:人民答应不答应"
+      }
+    ],
+    "title": "在新的历史时期，坚持和贯彻党的群众观点和群众路线，制定各项方针、政策的出发点和归宿是（    ）"
+  },
+  {
+    "type": "single",
+    "num": 35,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:个体资本所有制"
+      },
+      {
+        "isTrue": false,
+        "value": "B:国家资本所有制"
+      },
+      {
+        "isTrue": false,
+        "value": "C:法人资本所有制"
+      },
+      {
+        "isTrue": true,
+        "value": "D:私人股份资本所有制"
+      }
+    ],
+    "title": "实现生产资料经济上的所有权与法律上的所有权发生分离的是（）。"
+  },
+  {
+    "type": "multi",
+    "num": 36,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:物越是有用越有价值"
+      },
+      {
+        "isTrue": true,
+        "value": "B:物没有用就没有价值"
+      },
+      {
+        "isTrue": true,
+        "value": "C:物的有用性是形成价值的前提"
+      },
+      {
+        "isTrue": false,
+        "value": "D:只要物是有用的就有价值"
+      }
+    ],
+    "title": "马克思说：“如果物没有用，那么其中包含的劳动也没有用，不能算作劳动，因此不形成价值。”这说明（）"
+  },
+  {
+    "type": "single",
+    "num": 37,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:绝对剩余价值生产"
+      },
+      {
+        "isTrue": false,
+        "value": "B:资本家提高剥削程度的基本方法"
+      },
+      {
+        "isTrue": false,
+        "value": "C:相对剩余价值生产"
+      },
+      {
+        "isTrue": false,
+        "value": "D:通过提高全社会劳动生产率实现的"
+      }
+    ],
+    "title": "在必要劳动时间不变的条件下，资本家用延长劳动时间的方法来增加剩余价值的生产是（）"
+  },
+  {
+    "type": "multi",
+    "num": 38,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:新陈代谢是事物的辩证本性"
+      },
+      {
+        "isTrue": true,
+        "value": "B:事物的发展是否定之否定的过程"
+      },
+      {
+        "isTrue": true,
+        "value": "C:事物的发展是仿佛回到出发点的运动"
+      },
+      {
+        "isTrue": true,
+        "value": "D:事物发展过程是前进性和曲折性的统一"
+      }
+    ],
+    "title": "“前途是光明的，道路是曲折的。”这一命题包含的哲理有（）"
+  },
+  {
+    "type": "single",
+    "num": 39,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:生产资料完全公有化"
+      },
+      {
+        "isTrue": false,
+        "value": "B:高度文明与和谐的社会"
+      },
+      {
+        "isTrue": true,
+        "value": "C:社会生产力高度发展，产品极大丰富"
+      },
+      {
+        "isTrue": false,
+        "value": "D:人们的精神境界普遍提高"
+      }
+    ],
+    "title": "共产主义社会实现的根本条件和基础是（）"
+  },
+  {
+    "type": "multi",
+    "num": 40,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:自然界是认识发生和发展的现实基础"
+      },
+      {
+        "isTrue": true,
+        "value": "B:实践把认识的反映性和创造性统一起来"
+      },
+      {
+        "isTrue": true,
+        "value": "C:主体对客体的能动反映是以实践为中介而实现的"
+      },
+      {
+        "isTrue": false,
+        "value": "D:人所引起的自然界的变化是自然界的本质"
+      }
+    ],
+    "title": "恩格斯说：“人的思维的最本质和最切近的基础，正是人所引起的自然界的变化，而不单独是自然界本身。\"这一思想说明（）"
+  },
+  {
+    "type": "single",
+    "num": 41,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:人的智力为自然界立法"
+      },
+      {
+        "isTrue": false,
+        "value": "B:自然界是人的智力发展的现实基础"
+      },
+      {
+        "isTrue": true,
+        "value": "C:实践锻炼并提高了主体的认识能力"
+      },
+      {
+        "isTrue": false,
+        "value": "D:自然界的改变决定了认识能力的改变"
+      }
+    ],
+    "title": "恩格斯说：“人的智力是按照人如何学会改变自然界而发展的。”这说明（）"
+  },
+  {
+    "type": "multi",
+    "num": 42,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:法国巴黎公社运动"
+      },
+      {
+        "isTrue": true,
+        "value": "B:法国里昂工人起义"
+      },
+      {
+        "isTrue": true,
+        "value": "C:英国宪章运动"
+      },
+      {
+        "isTrue": true,
+        "value": "D:西里西亚纺织工人起义"
+      }
+    ],
+    "title": "19世纪30-40年代，法国、英国、德国接连爆发了无产阶级发对资本主义制度的斗争，其中三大工人运动是（）"
+  },
+  {
+    "type": "single",
+    "num": 43,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:都是唯我论"
+      },
+      {
+        "isTrue": false,
+        "value": "B:都主张宗教创世论"
+      },
+      {
+        "isTrue": false,
+        "value": "C:都是不可知论"
+      },
+      {
+        "isTrue": true,
+        "value": "D:都主张精神第一性，物质第二性"
+      }
+    ],
+    "title": "唯心主义哲学包括主观唯心主义和客观唯心主义两种基本形式。主观唯心主义和客观唯心主义（）"
+  },
+  {
+    "type": "multi",
+    "num": 44,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:归纳与演绎"
+      },
+      {
+        "isTrue": true,
+        "value": "B:分析与综合"
+      },
+      {
+        "isTrue": true,
+        "value": "C:抽象与具体"
+      },
+      {
+        "isTrue": true,
+        "value": "D:逻辑与历史"
+      }
+    ],
+    "title": "辩证思维方法是人们正确进行理性思维的方法，主要有（）"
+  },
+  {
+    "type": "single",
+    "num": 45,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:教育实践"
+      },
+      {
+        "isTrue": false,
+        "value": "B:阶级斗争"
+      },
+      {
+        "isTrue": true,
+        "value": "C:物质生产实践"
+      },
+      {
+        "isTrue": false,
+        "value": "D:改造社会的实践"
+      }
+    ],
+    "title": "实践构成了社会发展的动力，其中构成社会发展的根本动力的实践是（）"
+  },
+  {
+    "type": "multi",
+    "num": 46,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:指导主体按照客观规律去改世界"
+      },
+      {
+        "isTrue": true,
+        "value": "B:对实践活动做出预测和规划"
+      },
+      {
+        "isTrue": true,
+        "value": "C:指导主体选择实现目的的最佳行为方式"
+      },
+      {
+        "isTrue": false,
+        "value": "D:指导主体将抽象上升为理性具体"
+      }
+    ],
+    "title": "认识对实践的指导作用表现在（）"
+  },
+  {
+    "type": "single",
+    "num": 47,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:决定性"
+      },
+      {
+        "isTrue": false,
+        "value": "B:预见性"
+      },
+      {
+        "isTrue": true,
+        "value": "C:能动性"
+      },
+      {
+        "isTrue": false,
+        "value": "D:主动性"
+      }
+    ],
+    "title": "列宁说：“意识不仅反映客观世界，并且创造客观世界。”这一命题表明意识对物质具有（）"
+  },
+  {
+    "type": "multi",
+    "num": 48,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:在阶级关系上表现为无产阶级和资产阶级的对立"
+      },
+      {
+        "isTrue": true,
+        "value": "B:资本主义基本矛盾“包含着现代的一切冲突的萌芽”"
+      },
+      {
+        "isTrue": true,
+        "value": "C:在生产上表现为个别企业生产的有组织性和整个社会生产的无政府状态的对立"
+      },
+      {
+        "isTrue": true,
+        "value": "D:资本主义经济危机的爆发是这个基本矛盾发展的结果"
+      }
+    ],
+    "title": "以下对资本主义基本矛盾阐述正确的有（）"
+  },
+  {
+    "type": "single",
+    "num": 49,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:“天地万物皆在吾心中”"
+      },
+      {
+        "isTrue": false,
+        "value": "B:“存在就是被感知”"
+      },
+      {
+        "isTrue": false,
+        "value": "C:“人的理性为自然界立法”"
+      },
+      {
+        "isTrue": true,
+        "value": "D:“理在事先”"
+      }
+    ],
+    "title": "下列属于客观唯心主义的哲学观点是（）"
+  },
+  {
+    "type": "multi",
+    "num": 50,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:上层建筑第一性，经济基础第二性"
+      },
+      {
+        "isTrue": true,
+        "value": "B:经济基础决定上层建筑的产生、性质和发展变化的方向"
+      },
+      {
+        "isTrue": true,
+        "value": "C:上层建筑的反作用取决于并服务于经济基础的性质和要求"
+      },
+      {
+        "isTrue": false,
+        "value": "D:经济基础是经济结构，上层建筑即政治结构"
+      }
+    ],
+    "title": "上层建筑一定要适合经济基础发展状况规律的内容是（  ）"
+  },
+  {
+    "type": "single",
+    "num": 51,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:实现自我否定"
+      },
+      {
+        "isTrue": false,
+        "value": "B:发生了根本变化"
+      },
+      {
+        "isTrue": false,
+        "value": "C:仍无任何变化"
+      },
+      {
+        "isTrue": true,
+        "value": "D:有局部调整，但没有改变本质"
+      }
+    ],
+    "title": "垄断资本主义取代自由竞争，资本主义的发展表明资本主义生产关系（）。"
+  },
+  {
+    "type": "single",
+    "num": 52,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:熟知即真知"
+      },
+      {
+        "isTrue": true,
+        "value": "B:熟知不等于真知"
+      },
+      {
+        "isTrue": false,
+        "value": "C:熟知起源于真知"
+      },
+      {
+        "isTrue": false,
+        "value": "D:熟知必然转化为真知"
+      }
+    ],
+    "title": "根据认识的发展规律，在认识的“熟知\"与“真知”问题上的正确观点是（）"
+  },
+  {
+    "type": "single",
+    "num": 53,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:科学技术革命和生产力的发展"
+      },
+      {
+        "isTrue": false,
+        "value": "B:工人阶级争取自身权利和利益的斗争"
+      },
+      {
+        "isTrue": false,
+        "value": "C:社会主义制度初步显示的优越性"
+      },
+      {
+        "isTrue": false,
+        "value": "D:主张改良主义的政党对资本主义制度的改革"
+      }
+    ],
+    "title": "当代资本主义变化的根本推动力量是（）。"
+  },
+  {
+    "type": "single",
+    "num": 54,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:外交职能"
+      },
+      {
+        "isTrue": false,
+        "value": "B:政治职能"
+      },
+      {
+        "isTrue": false,
+        "value": "C:经济职能"
+      },
+      {
+        "isTrue": false,
+        "value": "D:社会职能"
+      }
+    ],
+    "title": "国家的社会作用即国家的职能包括对内和对外两个方面，其对外职能是（）"
+  },
+  {
+    "type": "single",
+    "num": 55,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:经济发展“失调”"
+      },
+      {
+        "isTrue": false,
+        "value": "B:政治体制“失灵”"
+      },
+      {
+        "isTrue": false,
+        "value": "C:社会融合机制“失效”"
+      },
+      {
+        "isTrue": true,
+        "value": "D:资本主义社会“溃败”"
+      }
+    ],
+    "title": "由美国次贷危机引发的2008年国家金融危机是自20世纪30年代大萧条以来最为严重的全球性经济危机，在这场危机的影响下，西方国家的经济生活、政治生活和社会民生等方面都出现了各种问题，但不包括（）。"
+  },
+  {
+    "type": "single",
+    "num": 56,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:维护垄断资产阶级的整体利益和长远利益"
+      },
+      {
+        "isTrue": false,
+        "value": "B:维护资本主义经济稳定增长"
+      },
+      {
+        "isTrue": false,
+        "value": "C:消除或防止经济危机爆发"
+      },
+      {
+        "isTrue": false,
+        "value": "D:提高资本主义社会的整体福利水平"
+      }
+    ],
+    "title": "国家垄断资本主义条件下，政府对经济生活进行干预和调节的实质是（）。"
+  },
+  {
+    "type": "single",
+    "num": 57,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:唯物主义预见未来社会的方法"
+      },
+      {
+        "isTrue": false,
+        "value": "B:空想社会主义预见未来社会的方法"
+      },
+      {
+        "isTrue": false,
+        "value": "C:唯心主义预见未来社会的方法"
+      },
+      {
+        "isTrue": true,
+        "value": "D:马克思主义预见未来社会的方法"
+      }
+    ],
+    "title": "“通过批判旧世界发现新世界”是（   ）"
+  },
+  {
+    "type": "single",
+    "num": 58,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:不受任何框框的束缚，思想上达到绝对自由"
+      },
+      {
+        "isTrue": false,
+        "value": "B:不受任何约束，做到随心所欲"
+      },
+      {
+        "isTrue": false,
+        "value": "C:抛弃原有的一切观念，重新评价一切"
+      },
+      {
+        "isTrue": true,
+        "value": "D:突破落后观念的束缚，坚持实事求是"
+      }
+    ],
+    "title": "解放思想，与时俱进，就是要（）"
+  },
+  {
+    "type": "single",
+    "num": 59,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:事物的外部联系和表面特征"
+      },
+      {
+        "isTrue": false,
+        "value": "B:事物的内部联系和表面特征"
+      },
+      {
+        "isTrue": false,
+        "value": "C:事物的外部联系和本质特征"
+      },
+      {
+        "isTrue": false,
+        "value": "D:事物的内部联系和本质特征"
+      }
+    ],
+    "title": "现象是指（）"
+  },
+  {
+    "type": "single",
+    "num": 60,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:同一部门内部不同企业之间竞争的结果"
+      },
+      {
+        "isTrue": true,
+        "value": "B:不同部门之间竞争的结果"
+      },
+      {
+        "isTrue": false,
+        "value": "C:不同区域资本家竞争的结果"
+      },
+      {
+        "isTrue": false,
+        "value": "D:生产者与消费者之间竞争的结果"
+      }
+    ],
+    "title": "平均利润率的形成是（）"
+  },
+  {
+    "type": "single",
+    "num": 61,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:是历史事件的发起者、当事者"
+      },
+      {
+        "isTrue": false,
+        "value": "B:是实现一定历史任务的组织者、领导者"
+      },
+      {
+        "isTrue": false,
+        "value": "C:甚至决定历史事件的进程和结局"
+      },
+      {
+        "isTrue": true,
+        "value": "D:有时决定历史发展的基本趋势"
+      }
+    ],
+    "title": "杰出人物在历史上的作用主要表现在，以下关于杰出人物，说法错误的是（）"
+  },
+  {
+    "type": "single",
+    "num": 62,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:占有的感性材料是否十分丰富而又真实"
+      },
+      {
+        "isTrue": false,
+        "value": "B:感性认识是否已经上升到理性认识"
+      },
+      {
+        "isTrue": false,
+        "value": "C:对该事物的认识是否经过多次反复"
+      },
+      {
+        "isTrue": true,
+        "value": "D:对该事物的理论认识是否运用于实践，并取得预期效果"
+      }
+    ],
+    "title": "判断对某一事物的认识是否完成的标志是（）"
+  },
+  {
+    "type": "single",
+    "num": 63,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:唯心主义的观点"
+      },
+      {
+        "isTrue": false,
+        "value": "B:折中主义的观点"
+      },
+      {
+        "isTrue": true,
+        "value": "C:历史唯物主义的观点"
+      },
+      {
+        "isTrue": false,
+        "value": "D:历史循环论的观点"
+      }
+    ],
+    "title": "人民群众既是历史的“剧中人”，又是历史的“剧作者”，这是（）"
+  },
+  {
+    "type": "single",
+    "num": 64,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:私人劳动与社会劳动之间的矛盾"
+      },
+      {
+        "isTrue": true,
+        "value": "B:生产社会化与资本主义私人占有之间的矛盾"
+      },
+      {
+        "isTrue": false,
+        "value": "C:剩余价值生产与剩余价值实现之间的矛盾"
+      },
+      {
+        "isTrue": false,
+        "value": "D:生产与消费之间的矛盾"
+      }
+    ],
+    "title": "资本主义的基本矛盾是（）"
+  },
+  {
+    "type": "single",
+    "num": 65,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:垄断在经济生活中占统制地位"
+      },
+      {
+        "isTrue": false,
+        "value": "B:国家垄断在经济生活中占统治地位"
+      },
+      {
+        "isTrue": false,
+        "value": "C:资本输出在经济生活中占统治地位"
+      },
+      {
+        "isTrue": false,
+        "value": "D:银行资本在经济生活中占统治地位"
+      }
+    ],
+    "title": "资本主义从自由竞争阶段进入垄断阶段，最根本的标志在于（）。"
+  },
+  {
+    "type": "single",
+    "num": 66,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:学习间接经验的重要性"
+      },
+      {
+        "isTrue": true,
+        "value": "B:实践的发展不断地提出认识的新课题，推动着认识向前发展"
+      },
+      {
+        "isTrue": false,
+        "value": "C:实践为认识发展提供必需的全部条件"
+      },
+      {
+        "isTrue": false,
+        "value": "D:人的大脑和感官在生理素质上的差异对认识的影响"
+      }
+    ],
+    "title": "工业生产、农业生产和军事发展的需要，产生并推动了高能物理、控制论、信息论、系统论、遗传工程现代材料学等学科的发展。这主要说明（）"
+  },
+  {
+    "type": "single",
+    "num": 67,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:主观意志的产物"
+      },
+      {
+        "isTrue": false,
+        "value": "B:不受任何限制的活动"
+      },
+      {
+        "isTrue": false,
+        "value": "C:对必然性的否定和超越"
+      },
+      {
+        "isTrue": true,
+        "value": "D:对必然性的认识和对客观世界的改造"
+      }
+    ],
+    "title": "在自由和必然关系问题上马克思主义哲学认为，自由是（）"
+  },
+  {
+    "type": "single",
+    "num": 68,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:无产阶级革命将在一个主要的资本主义国家同时发生"
+      },
+      {
+        "isTrue": false,
+        "value": "B:无产阶级革命可能首先在少数甚至在单独一个资本主义国家内获得胜利"
+      },
+      {
+        "isTrue": true,
+        "value": "C:无产阶级革命至少将在几个主要的资本主义国家同时发生"
+      },
+      {
+        "isTrue": false,
+        "value": "D:无产阶级革命不可能同时在几个主要的资本主义国家发生"
+      }
+    ],
+    "title": "关于无产阶级革命的发生，马克思、恩格斯曾经从自由竞争的资本主义时代条件出发，认为（）。"
+  },
+  {
+    "type": "single",
+    "num": 69,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:历史人物的作用受社会历史条件的制约"
+      },
+      {
+        "isTrue": false,
+        "value": "B:历史人物的作用受人民群众及实践活动的制约"
+      },
+      {
+        "isTrue": true,
+        "value": "C:历史人物的产生纯粹是一种偶然现象"
+      },
+      {
+        "isTrue": false,
+        "value": "D:历史人物是适应时代的需要而产生的"
+      }
+    ],
+    "title": "下列有关历史人物的观点错误的是（）"
+  },
+  {
+    "type": "single",
+    "num": 70,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:从群众中来，到群众中去"
+      },
+      {
+        "isTrue": false,
+        "value": "B:一切为了群众"
+      },
+      {
+        "isTrue": false,
+        "value": "C:向群众学习"
+      },
+      {
+        "isTrue": false,
+        "value": "D:群众自己能够解放自己"
+      }
+    ],
+    "title": "我党的群众路线是（）"
+  },
+  {
+    "type": "single",
+    "num": 71,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:有使用价值的物品不一定有价值"
+      },
+      {
+        "isTrue": false,
+        "value": "B:商品不可能既有价值，又有使用价值"
+      },
+      {
+        "isTrue": true,
+        "value": "C:商品的使用价值和价值既是统一的，又是对立的"
+      },
+      {
+        "isTrue": false,
+        "value": "D:同一种使用价值对不同消费者的满足程度是不同的"
+      }
+    ],
+    "title": "“一切商品对它们的所有者是非使用价值，对它们的非所有者是使用价值。”这句话表明（）"
+  },
+  {
+    "type": "single",
+    "num": 72,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:人口太多"
+      },
+      {
+        "isTrue": false,
+        "value": "B:少数英雄人物组织暴动"
+      },
+      {
+        "isTrue": false,
+        "value": "C:先进思想和革命理论的传播"
+      },
+      {
+        "isTrue": true,
+        "value": "D:社会基本矛盾的尖锐化"
+      }
+    ],
+    "title": "社会革命根源于（）"
+  },
+  {
+    "type": "single",
+    "num": 73,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:思维和存在的关系问题"
+      },
+      {
+        "isTrue": true,
+        "value": "B:社会存在和社会意识的关系问题"
+      },
+      {
+        "isTrue": false,
+        "value": "C:生产力和生产关系的关系问题"
+      },
+      {
+        "isTrue": false,
+        "value": "D:经济基础和上层建筑的关系问题"
+      }
+    ],
+    "title": "正确认识社会历史观的基本问题是解决其他社会历史观问题的基础和前提。社会历史观的基本问题是（）"
+  },
+  {
+    "type": "single",
+    "num": 74,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:根本矛盾决定的"
+      },
+      {
+        "isTrue": false,
+        "value": "B:主要矛盾决定的"
+      },
+      {
+        "isTrue": false,
+        "value": "C:矛盾的肯定方面决定的"
+      },
+      {
+        "isTrue": true,
+        "value": "D:矛盾的主要方面决定的"
+      }
+    ],
+    "title": "矛盾的性质主要是由（）"
+  },
+  {
+    "type": "single",
+    "num": 75,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:三个全面"
+      },
+      {
+        "isTrue": false,
+        "value": "B:五个全面"
+      },
+      {
+        "isTrue": false,
+        "value": "C:两个全面"
+      },
+      {
+        "isTrue": true,
+        "value": "D:四个全面"
+      }
+    ],
+    "title": "党的十八大以来，以习近平同志为核心的党中央以强烈的历史担当、高超的政治智慧和顽强的意志品格，团结带领全国人民统筹推进“五位一体”总体布局，协调推进（）战略布局，推动当代中国取得了历史性成就，发生了历史性变革。"
+  },
+  {
+    "type": "single",
+    "num": 76,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:创立了历史唯物主义"
+      },
+      {
+        "isTrue": false,
+        "value": "B:公然申明哲学是行动的指南"
+      },
+      {
+        "isTrue": false,
+        "value": "C:实现了唯物主义和辩证法的统一"
+      },
+      {
+        "isTrue": false,
+        "value": "D:确定哲学的研究对象是整个世界的一般规律"
+      }
+    ],
+    "title": "恩格斯说：“使唯心主义从它的最后的避难所即历史观中被驱逐出去了。”这主要是指（）"
+  },
+  {
+    "type": "single",
+    "num": 77,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:马克思"
+      },
+      {
+        "isTrue": false,
+        "value": "B:恩格斯"
+      },
+      {
+        "isTrue": true,
+        "value": "C:列宁"
+      },
+      {
+        "isTrue": false,
+        "value": "D:斯大林"
+      }
+    ],
+    "title": "以毛泽东为主要代表的中国共产党人，把马克思列宁主义基本原理同中国革命具体实际相结合，成功解决了通过农村包围城市武装夺取政权、实现从新民主主义到社会主义的转变、建立社会主义制度的一系列基本问题，丰富和发展了（）关于经济文化相对落后的国家走上社会主义道路的理论和实践。"
+  },
+  {
+    "type": "single",
+    "num": 78,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:主体客体化活动"
+      },
+      {
+        "isTrue": false,
+        "value": "B:客体主体化活动"
+      },
+      {
+        "isTrue": false,
+        "value": "C:实践是精神活动"
+      },
+      {
+        "isTrue": false,
+        "value": "D:实践是生物适应环境的活动"
+      }
+    ],
+    "title": "实践是人所特有的对象性活动，所谓“对象性活动”是指（）"
+  },
+  {
+    "type": "single",
+    "num": 79,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:生产关系"
+      },
+      {
+        "isTrue": false,
+        "value": "B:家庭关系"
+      },
+      {
+        "isTrue": false,
+        "value": "C:政治关系"
+      },
+      {
+        "isTrue": false,
+        "value": "D:思想关系"
+      }
+    ],
+    "title": "人类全部社会关系中最基础的关系是（）"
+  },
+  {
+    "type": "single",
+    "num": 80,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:只包括流通阶段而不包括生产阶段"
+      },
+      {
+        "isTrue": false,
+        "value": "B:只包括生产阶段而不包括流通阶段"
+      },
+      {
+        "isTrue": true,
+        "value": "C:购买、生产、销售三个阶段的统一"
+      },
+      {
+        "isTrue": false,
+        "value": "D:购买商品和销售商品两个阶段的统一"
+      }
+    ],
+    "title": "产业资本的循环运动要经过的阶段是（）"
+  },
+  {
+    "type": "single",
+    "num": 81,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:阶级范畴"
+      },
+      {
+        "isTrue": false,
+        "value": "B:经济范畴"
+      },
+      {
+        "isTrue": false,
+        "value": "C:永恒范畴"
+      },
+      {
+        "isTrue": true,
+        "value": "D:历史范畴"
+      }
+    ],
+    "title": "人民群众这一历史唯物主义概念属于（）"
+  },
+  {
+    "type": "single",
+    "num": 82,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:《论十大关系》"
+      },
+      {
+        "isTrue": false,
+        "value": "B:《关于正确处理人民内部矛盾的问题》"
+      },
+      {
+        "isTrue": true,
+        "value": "C:《论十大关系》《关于正确处理人民内部矛盾的问题》"
+      },
+      {
+        "isTrue": false,
+        "value": "D:《实践论》《矛盾论》"
+      }
+    ],
+    "title": "毛泽东提出要以苏联的经验教训为鉴戒，独立探索适合中国国情的社会主义建设道路。以（）为主要标志，党对怎样建设社会主义有了自己的新认识。"
+  },
+  {
+    "type": "single",
+    "num": 83,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:理性认识是不可靠的"
+      },
+      {
+        "isTrue": false,
+        "value": "B:感性认识总是同理性认识对立的"
+      },
+      {
+        "isTrue": false,
+        "value": "C:同一句格言，由于理论准备不同，感受就不一样"
+      },
+      {
+        "isTrue": true,
+        "value": "D:感性认识丰富的人与经验贫乏的人相比，对事物的理解深度是不一样的"
+      }
+    ],
+    "title": "黑格尔说,对于同一句格言，出自饱经风霜的老年人之口与出自缺乏阅历的青少年之口，其内涵是不同的。这一思想的哲学寓意（）"
+  },
+  {
+    "type": "single",
+    "num": 84,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:一百"
+      },
+      {
+        "isTrue": false,
+        "value": "B:三百"
+      },
+      {
+        "isTrue": false,
+        "value": "C:四百"
+      },
+      {
+        "isTrue": true,
+        "value": "D:五百"
+      }
+    ],
+    "title": "从16世纪初期兴起的社会主义思潮算起，社会主义到现在已经有（）年的历史。"
+  },
+  {
+    "type": "single",
+    "num": 85,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:实事求是"
+      },
+      {
+        "isTrue": false,
+        "value": "B:阶级斗争理论"
+      },
+      {
+        "isTrue": false,
+        "value": "C:社会发展理论"
+      },
+      {
+        "isTrue": false,
+        "value": "D:人民群众历史作用理论"
+      }
+    ],
+    "title": "马克思主义的精髓是（）"
+  },
+  {
+    "type": "single",
+    "num": 86,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:改良主义政党对资本主义制度的改良"
+      },
+      {
+        "isTrue": false,
+        "value": "B:工人阶级争取自身权利的斗争"
+      },
+      {
+        "isTrue": true,
+        "value": "C:科学技术革命和生产力的发展"
+      },
+      {
+        "isTrue": false,
+        "value": "D:社会主义制度的优越性对资本主义的影响"
+      }
+    ],
+    "title": "与第二次世界大战前的资本主义相比，当代资本主义在许多方面已经并正在发生着深刻的变化。正确分析这些新变化发生的原因，有利于我们科学而全面地认识当代资本主义社会。导致当代资本主义新变化发生地根本推动力量是（）。"
+  },
+  {
+    "type": "single",
+    "num": 87,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:发展的本质是创新"
+      },
+      {
+        "isTrue": false,
+        "value": "B:创新意识决定事物的发展"
+      },
+      {
+        "isTrue": false,
+        "value": "C:理论创新是制度创新的基础"
+      },
+      {
+        "isTrue": false,
+        "value": "D:制度创新和科技创新是最根本的创新"
+      }
+    ],
+    "title": "世界著名发明家、企业家、美国苹果公司联合创办人乔布斯说：“领袖和跟风者的区别就在于创新。\"我们要增强创新意识，积极进行理论创新、制度创新和科技创新，促进事物的发展。这是因为（）"
+  },
+  {
+    "type": "single",
+    "num": 88,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:工人劳动的价格"
+      },
+      {
+        "isTrue": false,
+        "value": "B:工人劳动的报酬"
+      },
+      {
+        "isTrue": false,
+        "value": "C:劳动的价值或价格"
+      },
+      {
+        "isTrue": true,
+        "value": "D:劳动力的价值或价格"
+      }
+    ],
+    "title": "资本主义工资的本质是（）"
+  },
+  {
+    "type": "single",
+    "num": 89,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:内因和外因的关系"
+      },
+      {
+        "isTrue": false,
+        "value": "B:矛盾统一性和斗争性的关系"
+      },
+      {
+        "isTrue": false,
+        "value": "C:矛盾主要方面和次要方面的关系"
+      },
+      {
+        "isTrue": true,
+        "value": "D:矛盾的普遍性和特殊性的关系"
+      }
+    ],
+    "title": "中国古代哲学家公孙龙“白马非马”之说的错误在于割裂了（）"
+  },
+  {
+    "type": "single",
+    "num": 90,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:精神和自然界的关系问题"
+      },
+      {
+        "isTrue": false,
+        "value": "B:思维和存在的同一性问题"
+      },
+      {
+        "isTrue": true,
+        "value": "C:思维和存在谁是本原、谁是派生的问题"
+      },
+      {
+        "isTrue": false,
+        "value": "D:社会存在和社会意识何者第一性的问题"
+      }
+    ],
+    "title": "恩格斯说：“凡是断定精神对自然界来说是本原的……组成唯心主义阵营。凡是认为自然界是本原的则属于唯物主义的各种学派。”(《马克思恩格斯文集》第22.卷，人民出版社，2009年版，第278页)这一思想说明，划分唯物主义和唯心主义的唯一标准是（）"
+  },
+  {
+    "type": "single",
+    "num": 91,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:都是辩证法观点"
+      },
+      {
+        "isTrue": false,
+        "value": "B:都是诡辩论观点"
+      },
+      {
+        "isTrue": true,
+        "value": "C:前者是辩证法观点，后者是诡辩论观点"
+      },
+      {
+        "isTrue": false,
+        "value": "D:前者是诡辩论观点，后者是辩证法观点"
+      }
+    ],
+    "title": "“人不能两次踏进同一条河流”和“人一次也不能踏进同一条河流”，这两种说法（）"
+  },
+  {
+    "type": "single",
+    "num": 92,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:工资问题"
+      },
+      {
+        "isTrue": false,
+        "value": "B:生存问题"
+      },
+      {
+        "isTrue": true,
+        "value": "C:国家政权问题"
+      },
+      {
+        "isTrue": false,
+        "value": "D:政治地位问题"
+      }
+    ],
+    "title": "无产阶级革命的的根本问题是（）。"
+  },
+  {
+    "type": "single",
+    "num": 93,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:方向和道路"
+      },
+      {
+        "isTrue": false,
+        "value": "B:形式和状态"
+      },
+      {
+        "isTrue": false,
+        "value": "C:结构和功能"
+      },
+      {
+        "isTrue": false,
+        "value": "D:源泉和动力"
+      }
+    ],
+    "title": "唯物辩证法的否定之否定规律揭示了事物发展的（）"
+  },
+  {
+    "type": "single",
+    "num": 94,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:社会基本矛盾"
+      },
+      {
+        "isTrue": false,
+        "value": "B:我国现阶段的主要矛盾"
+      },
+      {
+        "isTrue": false,
+        "value": "C:绝对真理与相对真理的矛盾"
+      },
+      {
+        "isTrue": true,
+        "value": "D:矛盾的共性和个性、绝对和相对的道理"
+      }
+    ],
+    "title": "毛泽东在《矛盾论》中指出：“关于事物矛盾的问题的精髓，不懂得它，就等于抛弃了辩证法。”这里讲的矛盾问题的精髓是指（）"
+  },
+  {
+    "type": "single",
+    "num": 95,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:唯物主义"
+      },
+      {
+        "isTrue": true,
+        "value": "B:唯物辩证法"
+      },
+      {
+        "isTrue": false,
+        "value": "C:认识论"
+      },
+      {
+        "isTrue": false,
+        "value": "D:历史唯物主义"
+      }
+    ],
+    "title": "在马克思主义世界观和方法论中，核心内容是（）"
+  },
+  {
+    "type": "single",
+    "num": 96,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:1848"
+      },
+      {
+        "isTrue": true,
+        "value": "B:1871"
+      },
+      {
+        "isTrue": false,
+        "value": "C:1864"
+      },
+      {
+        "isTrue": false,
+        "value": "D:1917"
+      }
+    ],
+    "title": "（）年爆发的巴黎公社革命，是第一国际精神的产儿，是无产阶级夺取政权的第一次伟大尝试。"
+  },
+  {
+    "type": "single",
+    "num": 97,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:庸俗唯物主义"
+      },
+      {
+        "isTrue": false,
+        "value": "B:唯理论"
+      },
+      {
+        "isTrue": false,
+        "value": "C:经验论"
+      },
+      {
+        "isTrue": true,
+        "value": "D:唯意志论"
+      }
+    ],
+    "title": "认为人们的思想动机、主观意志是社会发展的根本原因，这种观点属于（）"
+  },
+  {
+    "type": "single",
+    "num": 98,
+    "choices": [
+      {
+        "isTrue": true,
+        "value": "A:归纳与演绎相统一"
+      },
+      {
+        "isTrue": false,
+        "value": "B:分析与综合相统一"
+      },
+      {
+        "isTrue": false,
+        "value": "C:抽象与具体相统一"
+      },
+      {
+        "isTrue": false,
+        "value": "D:逻辑与历史相统一"
+      }
+    ],
+    "title": "人类思维从个别到一般，又从一般到个别的推理形式，是（）"
+  },
+  {
+    "type": "single",
+    "num": 99,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:使用价值和价值之间的矛盾"
+      },
+      {
+        "isTrue": true,
+        "value": "B:私人劳动和社会劳动之间的矛盾"
+      },
+      {
+        "isTrue": false,
+        "value": "C:具体劳动和抽象劳动之间的矛盾"
+      },
+      {
+        "isTrue": false,
+        "value": "D:复杂劳动和简单劳动之间的矛盾"
+      }
+    ],
+    "title": "以私有制为基础的商品经济的基本矛盾是（）"
+  },
+  {
+    "type": "single",
+    "num": 100,
+    "choices": [
+      {
+        "isTrue": false,
+        "value": "A:人的文化"
+      },
+      {
+        "isTrue": false,
+        "value": "B:人的自由"
+      },
+      {
+        "isTrue": true,
+        "value": "C:一切社会关系的总和"
+      },
+      {
+        "isTrue": false,
+        "value": "D:从人身上抽象出来的共性"
+      }
+    ],
+    "title": "从人与人相区别的层次上，马克思认为，人的现实本质是（）"
+  }
+]

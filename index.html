@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .question-item {
+        padding: 1rem 3rem;
+        border-bottom: 1px solid #e8e8e8;
+      }
+
+      .choice-item.checked {
+        background: lightgreen;
+      }
+
+      .choice-item {
+        margin-bottom: 0.5rem;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
+  <script>
+    const generateItem = (item) => {
+      const temp = `<div class="${item.type} question-item">
+          <p>${
+            item.type === 'multi'
+              ? '多选题'
+              : item.type === 'single'
+              ? '单选题'
+              : '判断题'
+          }</p>
+          <div class="title">${item.num}- ${item.title}</div>
+          <ul class="choices-container">
+        ${item.choices
+          .map(
+            (v) =>
+              `<li class="choice-item ${v.isTrue ? 'checked' : ''}">${
+                v.value
+              }</li>`
+          )
+          .join('')}
+            </ul>
+        </div>`
+
+      return temp
+    }
+
+    const app = document.getElementById('app')
+    const div = document.createElement('div')
+
+    const render = (questions, iter) => {
+      setTimeout(() => {
+        div.innerHTML = generateItem(questions[iter])
+        app.appendChild(div.children[0])
+        if (questions[iter + 1]) {
+          render(questions, iter + 1)
+        }
+      })
+    }
+
+    fetch('./json/testPaper2JSON.json')
+      .then((res) => res.json())
+      .then((questions) => {
+        render(questions, 0)
+      })
+  </script>
+</html>
